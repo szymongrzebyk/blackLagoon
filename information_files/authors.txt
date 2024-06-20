@@ -1,0 +1,9 @@
+This game was created entirely by Szymon Grzebyk
+Code was writen by Szymon Grzebyk
+Story was writen by Szymon Grzebyk
+Inspiration for world building: Black lagoon anime
+Inspiration for game format: Sid Meier's Pirates (2004)
+
+This game was created as a project to practise Python and to create something interesting that I could enjoy (and the others as well)
+Repository is public to share with people what I've done and to share this game with people that want to play.
+I have all rights to the code but I don't raise any money based on this project (since it was partially inspired by others' work (anime and game)
